@@ -1,16 +1,3 @@
-# just_chat_app
+# Just Chat App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Chat App to meet new people all over the world, create private groups with friends, send pictures, gifs or video, custom theme and change language options, with supabase authentication and secure two-way cryptography communication. Uses the Flutter BLoC framework for advanced state management.
